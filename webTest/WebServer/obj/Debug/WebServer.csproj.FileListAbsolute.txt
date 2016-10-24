@@ -1,0 +1,12 @@
+K:\Users\rox\Desktop\webTest\WebServer\bin\WebApplication2.dll.config
+K:\Users\rox\Desktop\webTest\WebServer\bin\WebApplication2.dll
+K:\Users\rox\Desktop\webTest\WebServer\bin\WebApplication2.pdb
+K:\Users\rox\Desktop\webTest\WebServer\obj\Debug\WebServer.csprojResolveAssemblyReference.cache
+K:\Users\rox\Desktop\webTest\WebServer\obj\Debug\WebApplication2.dll
+K:\Users\rox\Desktop\webTest\WebServer\obj\Debug\WebApplication2.pdb
+E:\gitcode\webTest\WebServer\bin\WebApplication2.dll.config
+E:\gitcode\webTest\WebServer\bin\WebApplication2.dll
+E:\gitcode\webTest\WebServer\bin\WebApplication2.pdb
+E:\gitcode\webTest\WebServer\obj\Debug\WebServer.csprojResolveAssemblyReference.cache
+E:\gitcode\webTest\WebServer\obj\Debug\WebApplication2.dll
+E:\gitcode\webTest\WebServer\obj\Debug\WebApplication2.pdb

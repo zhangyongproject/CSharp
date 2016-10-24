@@ -1,0 +1,6 @@
+E:\gitcode\webTest\webClientTestForm\WebClientTestWeb\bin\WebClientTestWeb.dll.config
+E:\gitcode\webTest\webClientTestForm\WebClientTestWeb\bin\WebClientTestWeb.dll
+E:\gitcode\webTest\webClientTestForm\WebClientTestWeb\bin\WebClientTestWeb.pdb
+E:\gitcode\webTest\webClientTestForm\WebClientTestWeb\obj\Release\WebClientTestWeb.csprojResolveAssemblyReference.cache
+E:\gitcode\webTest\webClientTestForm\WebClientTestWeb\obj\Release\WebClientTestWeb.dll
+E:\gitcode\webTest\webClientTestForm\WebClientTestWeb\obj\Release\WebClientTestWeb.pdb

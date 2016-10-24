@@ -1,0 +1,4 @@
+K:\Users\rox\Desktop\EventRegistrationWeb\bin\EventRegistrationWeb.dll
+K:\Users\rox\Desktop\EventRegistrationWeb\bin\EventRegistrationWeb.pdb
+K:\Users\rox\Desktop\EventRegistrationWeb\obj\Release\EventRegistrationWeb.dll
+K:\Users\rox\Desktop\EventRegistrationWeb\obj\Release\EventRegistrationWeb.pdb

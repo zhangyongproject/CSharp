@@ -1,0 +1,6 @@
+K:\Users\rox\Desktop\EventRegistrationWeb\bin\EventRegistrationWeb.dll
+K:\Users\rox\Desktop\EventRegistrationWeb\bin\EventRegistrationWeb.pdb
+K:\Users\rox\Desktop\EventRegistrationWeb\obj\Debug\EventRegistrationWeb.dll
+K:\Users\rox\Desktop\EventRegistrationWeb\obj\Debug\EventRegistrationWeb.pdb
+K:\Users\rox\Desktop\EventRegistrationWeb\bin\EventRegistrationWeb.dll.config
+K:\Users\rox\Desktop\EventRegistrationWeb\obj\Debug\EventRegistrationWeb.csprojResolveAssemblyReference.cache

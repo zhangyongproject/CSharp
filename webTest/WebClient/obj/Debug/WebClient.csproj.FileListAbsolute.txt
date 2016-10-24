@@ -1,0 +1,6 @@
+E:\gitcode\webTest\WebClient\bin\WebApplication1.dll.config
+E:\gitcode\webTest\WebClient\bin\WebApplication1.dll
+E:\gitcode\webTest\WebClient\bin\WebApplication1.pdb
+E:\gitcode\webTest\WebClient\obj\Debug\WebClient.csprojResolveAssemblyReference.cache
+E:\gitcode\webTest\WebClient\obj\Debug\WebApplication1.dll
+E:\gitcode\webTest\WebClient\obj\Debug\WebApplication1.pdb

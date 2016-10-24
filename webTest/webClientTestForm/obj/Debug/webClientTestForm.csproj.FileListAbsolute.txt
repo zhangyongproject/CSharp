@@ -1,0 +1,10 @@
+K:\Users\rox\Desktop\webTest\webClientTestForm\bin\Debug\webClientTestForm.exe.config
+E:\gitcode\webTest\webClientTestForm\bin\Debug\webClientTestForm.exe.config
+E:\gitcode\webTest\webClientTestForm\bin\Debug\webClientTestForm.exe
+E:\gitcode\webTest\webClientTestForm\bin\Debug\webClientTestForm.pdb
+E:\gitcode\webTest\webClientTestForm\obj\Debug\webClientTestForm.csprojResolveAssemblyReference.cache
+E:\gitcode\webTest\webClientTestForm\obj\Debug\webClientTestForm.Form1.resources
+E:\gitcode\webTest\webClientTestForm\obj\Debug\webClientTestForm.Properties.Resources.resources
+E:\gitcode\webTest\webClientTestForm\obj\Debug\webClientTestForm.csproj.GenerateResource.Cache
+E:\gitcode\webTest\webClientTestForm\obj\Debug\webClientTestForm.exe
+E:\gitcode\webTest\webClientTestForm\obj\Debug\webClientTestForm.pdb

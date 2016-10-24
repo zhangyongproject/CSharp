@@ -1,0 +1,11 @@
+c:\users\lenovo\documents\visual studio 2013\Projects\webClientTestForm\WebClientTestWeb\bin\WebClientTestWeb.dll.config
+c:\users\lenovo\documents\visual studio 2013\Projects\webClientTestForm\WebClientTestWeb\bin\WebClientTestWeb.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\webClientTestForm\WebClientTestWeb\bin\WebClientTestWeb.pdb
+c:\users\lenovo\documents\visual studio 2013\Projects\webClientTestForm\WebClientTestWeb\obj\Debug\WebClientTestWeb.dll
+c:\users\lenovo\documents\visual studio 2013\Projects\webClientTestForm\WebClientTestWeb\obj\Debug\WebClientTestWeb.pdb
+E:\gitcode\webTest\webClientTestForm\WebClientTestWeb\bin\WebClientTestWeb.dll.config
+E:\gitcode\webTest\webClientTestForm\WebClientTestWeb\bin\WebClientTestWeb.dll
+E:\gitcode\webTest\webClientTestForm\WebClientTestWeb\bin\WebClientTestWeb.pdb
+E:\gitcode\webTest\webClientTestForm\WebClientTestWeb\obj\Debug\WebClientTestWeb.csprojResolveAssemblyReference.cache
+E:\gitcode\webTest\webClientTestForm\WebClientTestWeb\obj\Debug\WebClientTestWeb.dll
+E:\gitcode\webTest\webClientTestForm\WebClientTestWeb\obj\Debug\WebClientTestWeb.pdb

@@ -36,6 +36,7 @@ namespace DotNetServer
     {
         int Add(int val1, int val2);
         int Sub(int val1, int val2);
+        void GetAndCallDelegate(long dd);
     }
 
     [ClassInterface(ClassInterfaceType.None)]
@@ -74,6 +75,15 @@ namespace DotNetServer
                 CalculationCompleted();
             return result;
 
+        }
+
+        public void GetAndCallDelegate(long dd)
+        {
+            
+            Action xx = (Action)Marshal.GetDelegateForFunctionPointer((IntPtr)dd, typeof(Action));
+
+            if(xx != null)
+                xx();
         }
     }
 }

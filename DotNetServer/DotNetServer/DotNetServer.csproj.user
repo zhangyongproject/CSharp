@@ -5,6 +5,6 @@
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
     <StartAction>Program</StartAction>
-    <StartProgram>C:\Users\rox\Desktop\output\DotNetClient\Debug\DotNetClient.exe</StartProgram>
+    <StartProgram>E:\gitcode\zhangyong\CSharp\output\DotNetClient\Debug\DotNetClient.exe</StartProgram>
   </PropertyGroup>
 </Project>

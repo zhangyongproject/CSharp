@@ -67,7 +67,10 @@ CDotNetClientApp theApp;
 
 
 // CDotNetClientApp 初始化
-
+void GetXML()
+{
+	AfxMessageBox(_T("tttttttttttt"));
+}
 BOOL CDotNetClientApp::InitInstance()
 {
 	// 如果一个运行在 Windows XP 上的应用程序清单指定要
@@ -102,6 +105,7 @@ BOOL CDotNetClientApp::InitInstance()
 
 
 		IMathPtr spMath = spWelcome;
+		spMath->GetAndCallDelegate((long)GetXML);
 		long result;
 		spMath->Add(4, 5, &result);
 
